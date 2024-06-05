@@ -16,6 +16,6 @@ body{
 a:hover{
     color:yellow;
 }
-p {
+.story {
     text-indent: 30px;
 }
